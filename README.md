@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farhanabi
 - 👀 I’m interested in building a high-performance website with a good user experience
-- 🌱 I’m currently learning Astro and Go
+- 🌱 I’m currently learning React Server Component
 - 💞️ I’m looking to collaborate on a high-impact product
 - 📫 Reach me at hello@farhanabi.com
 
